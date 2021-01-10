@@ -3,9 +3,12 @@
 
 #### 개발 환경
 - vscode, VNC viewer, python, RaspberryPi 4 이용
+- touch LCD, 스피커, 웹캠
 
 #### 기능
 
+- AWS iot core와 연동
+- s3와 연동
 - 특정 횟수 이상 문이 열리면 AWS로 MQTT pub
 - rfid MQTT sub
 - servo motor pub
