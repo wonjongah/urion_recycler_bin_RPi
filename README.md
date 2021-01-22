@@ -1,5 +1,5 @@
 
-### 유리 재활용 및 재사용 목적 프로젝트 유리온 라즈베리파이 기능 및 개발 과정
+## < 유리 재활용 및 재사용 목적 프로젝트 유리온 라즈베리파이 기능 및 개발 과정 >
 
 #### 개발 환경
 - vscode, VNC viewer, python, RaspberryPi 4 이용
@@ -23,6 +23,9 @@ $ python mainserver.py
 ![스크린샷(84)](https://user-images.githubusercontent.com/50413112/103846570-c18c6780-50e1-11eb-8a02-d51cee56face.png)
 ![스크린샷(85)](https://user-images.githubusercontent.com/50413112/103846576-c3eec180-50e1-11eb-90e6-1ed5e22e42d2.png)
 ![스크린샷(86)](https://user-images.githubusercontent.com/50413112/103847778-4f695200-50e4-11eb-907f-cfa7083ddaef.png)
+![스크린샷(151)](https://user-images.githubusercontent.com/50413112/105450737-77e57480-5cbe-11eb-994a-43927c4d14c1.png)
+![스크린샷(152)](https://user-images.githubusercontent.com/50413112/105450739-787e0b00-5cbe-11eb-905e-27a2a0730d1a.png)
+
 
 융합 프로젝트 5조 이리온 원종아 해야 할 일, 진척도
 
